@@ -1,0 +1,2 @@
+# Socio-economic-Drivers-Management-Determinants-of-Biosecurity-Poultry-Farms-Southern-Ctg-BD
+Analysis scripts, GIS mapping workflows, and data processing code for the manuscript "Socio-economic Drivers and Management Determinants of Biosecurity in Commercial Poultry Farms of Southern Chattogram, Bangladesh." Contains reproducible R code for regression analysis, and spatial mapping of commercial poultry farms across Southern Chattogram.
