@@ -1,0 +1,8 @@
+﻿,GVIF,Df,GVIF^(1/(2*Df))
+factor(Poultry_type),1.634,2,1.131
+factor(Age_N),4.284,2,1.439
+factor(Marital_N),3.623,1,1.903
+factor(Education_N),1.343,2,1.007
+factor(Experience_N),1.24,1,1.114
+factor(Training_received),1.38,1,1.175
+factor(HeatStressManage),1.593,3,1.081
